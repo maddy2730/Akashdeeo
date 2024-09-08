@@ -1,0 +1,107 @@
+.image-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .sr7-galig {
+    padding-bottom: 100px !important;
+    pointer-events: none;
+    line-height: 18px;
+    text-align: left;
+    padding: 0px 219.111px;
+    vertical-align: top;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: 100%;
+    height: auto;
+    display: block;
+    visibility: inherit;
+        background-color:rgb(17 1 1);
+
+}
+  .content-item{
+    margin: 30px 0px 30px 0px;
+    font-family: Forum;
+    font-size: 32px;
+    font-weight: 400;
+    color: rgb(255, 253, 238);
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: -1.42222px;
+    line-height: 36px;
+    text-align: left;
+    white-space: normal;
+    padding: 0px;
+    vertical-align: inherit;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: auto;
+    height: auto;
+    display: block;
+    visibility: inherit;
+    background: transparent;
+    opacity: 1;
+    pointer-events: auto;
+    border-radius: 0px;
+    border-width: 0px;
+    border-style: none;
+    border-color: rgb(255, 253, 238);
+  } 
+
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    filter: brightness(35%) grayscale(0%);
+  }
+  .row_castum{
+    margin-right: calc(var(--bs-gutter-x)* 0.5) !important;
+
+}
+  .image-container img :hover{
+    filter: brightness(100%) grayscale(0%);
+  }
+  .list-group-item {
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .list-group-item:hover {
+    background-color: #f8f9fa;
+    color: #007bff;
+  }
+  .border-line{
+    overflow: hidden;
+    margin: 25px 0px;
+    width: auto;
+    height: 0.711111px;
+    float: none;
+    clear: none;
+    z-index: 12;
+    position: relative;
+    vertical-align: inherit;
+    display: block;
+    visibility: inherit;
+    translate: none;
+    rotate: none;
+    scale: none;
+    opacity: 1;
+    transform: translate(0px, 0px);
+    background: rgba(255, 168, 106, 0.5);
+  }
+  .border{
+    padding: 0px;
+    vertical-align: top;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: auto;
+    height: 0.711111px;
+    display: block;
+    visibility: inherit;
+    background: rgba(255, 168, 106, 0.5);
+    opacity: 1;
+    pointer-events: auto;
+  }
+  .text_upcoming{
+    align-items: center;
+  }

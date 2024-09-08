@@ -1,0 +1,214 @@
+.footer-page{
+    height: 731px;
+}
+.footer{
+    background-color:rgb(17 1 1);
+}
+
+.footer_img{
+    line-height: 18px;
+    text-align: left;
+    overflow: visible;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+    z-index: 8;
+    /* position: absolute; */
+    vertical-align: top;
+    display: block;
+    left: 0px;
+    visibility: visible;
+    background: transparent;
+}
+.banner-img{
+    padding: 0px;
+    vertical-align: top;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: 100%;
+    height: 270.222px;
+    visibility: inherit;
+    background: url(https://www.sliderrevolution.com/wp-content/uploads/revslider/wood-art-one-page-footer/footer.jpeg) 50% 50% / cover no-repeat transparent;
+    backface-visibility: visible;
+    clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+    opacity: 1;
+    pointer-events: auto;
+}
+.lets{
+    overflow: hidden;
+    margin: 142px 0px 0px;
+    width: 100%;
+    height: auto;
+    float: none;
+    clear: none;
+    z-index: 13;
+    position: relative;
+    cursor: pointer;
+    vertical-align: inherit;
+    display: inline-block;
+    visibility: inherit;
+    translate: none;
+    rotate: none;
+    scale: none;
+    opacity: 1;
+    transform: translate(0px, 0px);
+}
+.lets-color{
+    font-family: Forum;
+    font-size: 107px;
+    font-weight: 400;
+    color: rgb(255, 253, 238);
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: -3.55556px;
+    line-height: 107px;
+    text-align: center;
+    white-space: normal;
+    padding: 0px;
+    vertical-align: inherit;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: auto;
+    height: auto;
+    display: block;
+    visibility: inherit;
+    background: transparent;
+    opacity: 1;
+    pointer-events: auto;
+}
+.line{
+    
+    font-family: Forum;
+    font-size: 107px;
+    font-weight: 400;
+    color: rgb(255, 253, 238);
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: -3.55556px;
+    line-height: 107px;
+    text-align: center;
+    white-space: normal;
+    padding: 0px;
+    vertical-align: inherit;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: auto;
+    height: auto;
+    display: block;
+    visibility: inherit;
+    background: transparent;
+    opacity: 1;
+    pointer-events: auto;
+    margin: 28px 0px;
+}
+.break-line{
+    padding: 0px;
+    vertical-align: top;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: 100%;
+    height: 0.711111px;
+    display: block;
+    visibility: inherit;
+    background: rgba(255, 253, 238, 0.45);
+    backface-visibility: visible;
+    clip-path: polygon(37% 0%, 63% 0%, 63% 100%, 37% 100%);
+    opacity: 1;
+    pointer-events: auto;
+
+}
+.dates_text{
+    overflow: hidden;
+    margin: 43px 0px;
+    width: auto;
+    height: auto;
+    float: none;
+    clear: none;
+    z-index: 10;
+    position: relative;
+    vertical-align: inherit;
+    display: block;
+    visibility: inherit;
+    translate: none;
+    rotate: none;
+    scale: none;
+    opacity: 1;
+    transform: translate(0px, 0px);
+}
+.added-year{
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 500;
+    color: rgb(214, 212, 200);
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.711111px;
+    line-height: 21px;
+    text-align: center;
+    white-space: normal;
+    padding: 0px;
+    vertical-align: inherit;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: auto;
+    height: auto;
+    display: block;
+    visibility: inherit;
+    background: transparent;
+    opacity: 1;
+    pointer-events: auto;
+}
+.social-media{
+    overflow: hidden;
+    margin: 0px;
+    width: auto;
+    height: auto;
+    float: none;
+    clear: none;
+    z-index: 9;
+    position: relative;
+    cursor: pointer;
+    vertical-align: inherit;
+    display: inline-block;
+    visibility: inherit;
+    translate: none;
+    rotate: none;
+    scale: none;
+    opacity: 1;
+    transform: translate3d(0px, 0px, 0px);
+}
+.links{
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 500;
+    color: rgb(255, 168, 106);
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.711111px;
+    line-height: 28px;
+    text-align: center;
+    white-space: normal;
+    padding: 0px 39px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(255, 255, 255, 0.31);
+    border-radius: 50px;
+    vertical-align: inherit;
+    transform-origin: 50% 50%;
+    transform: translate3d(0px, 0px, 0px);
+    width: auto;
+    height: auto;
+    display: block;
+    visibility: inherit;
+    background: rgba(255, 168, 106, 0);
+    opacity: 1;
+    pointer-events: auto;
+}
+.social-media-links{
+    justify-content: center;
+    gap: 35px;
+}
+.row_castum{
+    margin-right: calc(var(--bs-gutter-x)* 0.5) !important;
+
+}

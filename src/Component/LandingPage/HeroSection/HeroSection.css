@@ -1,0 +1,253 @@
+
+/* {
+  font-size: 6rem !important;
+  white-space: nowrap;
+  font-weight:normal;
+} */
+ .body{
+  background-color:rgb(17 1 1);
+  height: 100vh;
+ }
+.text_banner_hero {
+  overflow: hidden;
+    margin: 0px;
+    width: auto;
+    height: auto;
+    float: none;
+    clear: none;
+    z-index: 8;
+    position: relative;
+    vertical-align: inherit;
+    display: block;
+    visibility: inherit;
+    translate: none;
+    rotate: none;
+    scale: none;
+    opacity: 1;
+    transform: translate(0px, 0px);
+ }
+.text_banner_hero h2{
+  
+  pointer-events: none;
+  font-family: Forum;
+  font-size: 107px;
+  font-weight: 400;
+  color: rgb(255, 253, 238);
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: -4.97778px;
+  line-height: 107px;
+  text-align: left;
+  white-space: normal;
+  padding: 0px;
+  vertical-align: inherit;
+  transform-origin: 50% 50%;
+  transform: translate(0px, 0px);
+  width: auto;
+  height: auto;
+  display: block;
+  visibility: inherit;
+  background: transparent;
+  opacity: 1;
+}
+.text{
+  color: white;
+}
+.main_heading_hero {
+  /* justify-content: center;
+  position: relative;
+    top: 79px;
+    left: 132px;
+  display: flex; */
+  pointer-events: none;
+  line-height: 18px;
+  text-align: left;
+  overflow: visible;
+  padding: 0px 219.111px;
+  width: auto;
+  height: auto;
+  float: none;
+  clear: none;
+  z-index: 7;
+  position: relative;
+  vertical-align: top;
+  transform-origin: 50% 50%;
+  transform: translate(0px, 0px);
+  display: block;
+  visibility: visible;
+  opacity: 1;
+ }
+/* .hero_images_linear:hover{
+  filter: brightness(89%) grayscale(31%); 
+} */
+.hero_images_linear{
+  z-index: 1011;
+    position: absolute;
+    display: block;
+    left: 602.667px;
+    top: 70.5px;
+    translate: none;
+    rotate: none;
+    scale: none;
+    transform: translate(5.985px, 3.3px);
+    overflow: visible;
+    padding: 0px;
+    transform-origin: 50% 50%;
+    transform: perspective(600px);
+    width: 480px;
+    height: 546px;
+    visibility: visible;
+    background: url(https://www.sliderrevolution.com/wp-content/uploads/revslider/wood-art-one-page-hero/2vader.png) 50% 50% / cover no-repeat transparent;
+    opacity: 1;
+    filter: brightness(35%) grayscale(0%);
+    pointer-events: auto;
+    transition: filter 0.3s ease; 
+} */
+.hero_images_linear {
+  z-index: 7;
+  position: absolute;
+  display: block;
+  visibility: visible;
+  left: 602.667px;
+  top: 70.5px;
+  
+  overflow: visible;
+  padding: 0px;
+
+  width: 480px;
+  height: 546px;
+  background: url(https://www.sliderrevolution.com/wp-content/uploads/revslider/wood-art-one-page-hero/2vader.png) 50% 50% / cover no-repeat transparent;
+  opacity: 1;
+  filter: brightness(35%) grayscale(0%);
+  pointer-events: auto;
+  transition: filter 0.3s ease; 
+}
+
+.hero_images_linear:hover {
+  filter: brightness(100%) grayscale(0%); 
+  transform: translate(5.985px, 3.3px);
+  transition: filter 0.3s ease;
+  transform-origin: 50% 50%;
+  transform: perspective(600px);
+}
+.row_castum{
+  margin-right: calc(var(--bs-gutter-x)* 0.5) !important;
+}
+.Craving_art_text {
+  overflow: hidden;
+  margin: 0px 0px 14px;
+  width: auto;
+  height: auto;
+  float: none;
+  clear: none;
+  z-index: 9;
+  position: relative;
+  vertical-align: inherit;
+  display: block;
+  visibility: inherit;
+  translate: none;
+  rotate: none;
+  scale: none;
+  opacity: 1;
+  transform: translate(0px, 0px);
+}
+.Craving_art_text h6{
+  pointer-events: none;
+  font-family: Forum;
+  font-size: 21px;
+  font-weight: 400;
+  color: rgb(255, 168, 106);
+  text-transform: none;
+  text-decoration: none;
+  letter-spacing: 0px;
+  line-height: 43px;
+  text-align: left;
+  white-space: normal;
+  padding: 0px;
+  vertical-align: inherit;
+  transform-origin: 50% 50%;
+  transform: translate(0px, 0px);
+  width: auto;
+  height: auto;
+  display: block;
+  visibility: inherit;
+  background: transparent;
+  opacity: 1;
+}
+.wood_text text{
+  overflow: visible;
+  font-size: -3px;
+  z-index: 8;
+  position: absolute;
+}
+.hero_section{
+  line-height: 21px;
+  text-align: left;
+  overflow: visible;
+  padding: 0px;
+  width: 100%;
+  height: auto;
+  z-index: 10;
+  position: absolute;
+  vertical-align: top;
+  display: block;
+  left: 0px;
+  top: 130px;
+  visibility: visible;
+  background: transparent;
+}
+.ctn{
+  display: flex;
+  justify-content: center;
+}
+.text_line_hero{
+      /* overflow: hidden; */
+      margin: 21px 0px 0px;
+      width: 48%;
+      height: auto;
+      float: none;
+      clear: none;
+      z-index: 7;
+      position: relative;
+      vertical-align: inherit;
+      display: block;
+      visibility: inherit;
+      translate: none;
+      rotate: none;
+      scale: none;
+      opacity: 1;
+      transform: translate(0px, 0px);
+}
+.text_line_hero p{
+  pointer-events: none;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 400;
+    color: rgb(214, 212, 200);
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 0px;
+    line-height: 22px;
+    text-align: left;
+    white-space: normal;
+    padding: 0px 0px 0px 10px;
+    vertical-align: inherit;
+    transform-origin: 50% 50%;
+    transform: translate(0px, 0px);
+    width: 100%;
+    height: auto;
+    display: block;
+    visibility: inherit;
+    background: transparent;
+    opacity: 1;
+}
+
+
+
+
+
+
+
+
+
+
